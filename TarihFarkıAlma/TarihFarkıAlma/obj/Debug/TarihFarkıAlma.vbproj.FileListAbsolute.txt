@@ -1,0 +1,12 @@
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\bin\Debug\TarihFarkıAlma.exe.config
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\bin\Debug\TarihFarkıAlma.exe
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\bin\Debug\TarihFarkıAlma.pdb
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\bin\Debug\TarihFarkıAlma.xml
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\obj\Debug\TarihFarkıAlma.vbproj.AssemblyReference.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\obj\Debug\TarihFarkıAlma.Form1.resources
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\obj\Debug\TarihFarkıAlma.Resources.resources
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\obj\Debug\TarihFarkıAlma.vbproj.GenerateResource.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\obj\Debug\TarihFarkıAlma.vbproj.CoreCompileInputs.cache
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\obj\Debug\TarihFarkıAlma.exe
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\obj\Debug\TarihFarkıAlma.xml
+C:\Users\BERIKA\Desktop\dersler\my\derstekrarı\TarihFarkıAlma\TarihFarkıAlma\obj\Debug\TarihFarkıAlma.pdb

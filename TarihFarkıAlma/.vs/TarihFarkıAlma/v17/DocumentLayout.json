@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BERIKA\\Desktop\\dersler\\my\\derstekrar\u0131\\TarihFark\u0131Alma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{461EDC99-9D88-4180-AF8A-943511EB2ADC}|TarihFark\u0131Alma\\TarihFark\u0131Alma.vbproj|c:\\users\\berika\\desktop\\dersler\\my\\derstekrar\u0131\\tarihfark\u0131alma\\tarihfark\u0131alma\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{461EDC99-9D88-4180-AF8A-943511EB2ADC}|TarihFark\u0131Alma\\TarihFark\u0131Alma.vbproj|solutionrelative:tarihfark\u0131alma\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461EDC99-9D88-4180-AF8A-943511EB2ADC}|TarihFark\u0131Alma\\TarihFark\u0131Alma.vbproj|C:\\Users\\BERIKA\\Desktop\\dersler\\my\\derstekrar\u0131\\TarihFark\u0131Alma\\tarihfark\u0131alma\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{461EDC99-9D88-4180-AF8A-943511EB2ADC}|TarihFark\u0131Alma\\TarihFark\u0131Alma.vbproj|solutionrelative:tarihfark\u0131alma\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\my\\derstekrar\u0131\\TarihFark\u0131Alma\\TarihFark\u0131Alma\\Form1.vb",
+              "RelativeDocumentMoniker": "TarihFark\u0131Alma\\Form1.vb",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\my\\derstekrar\u0131\\TarihFark\u0131Alma\\TarihFark\u0131Alma\\Form1.vb",
+              "RelativeToolTip": "TarihFark\u0131Alma\\Form1.vb",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T13:14:39.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\my\\derstekrar\u0131\\TarihFark\u0131Alma\\TarihFark\u0131Alma\\Form1.vb",
+              "RelativeDocumentMoniker": "TarihFark\u0131Alma\\Form1.vb",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\my\\derstekrar\u0131\\TarihFark\u0131Alma\\TarihFark\u0131Alma\\Form1.vb [Design]",
+              "RelativeToolTip": "TarihFark\u0131Alma\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-25T13:05:07.517Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
